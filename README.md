@@ -1,4 +1,4 @@
-<h1>Admin and Product Management System</h1>h1>
+<h1>Admin and Product Management System</h1>
 This project is a full-stack application that allows administrators to manage products through a user-friendly interface. The backend is built with Node.js and Express, using JSON-Server to handle CRUD operations for products and JWT authentication to secure admin access. The frontend is developed with React.js and styled with Bootstrap, providing an intuitive experience for managing product data.
 <br/>
 Features
