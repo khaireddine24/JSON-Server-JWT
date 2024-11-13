@@ -19,7 +19,7 @@ This project is a full-stack application that allows administrators to manage pr
 +This project demonstrates essential CRUD functionality, authentication, and a seamless admin experience for managing product data.
 <br/><br/>
 <b>Ressources</b><br/>
-<a href='JSON-Server-avec-JWT-et-CRUD.pptx](https://github.com/user-attachments/files/17737180/JSON-Server-avec-JWT-et-CRUD.pptx'>JSON Server and JWT Presentation</a>
+<a href='https://github.com/user-attachments/files/17737180/JSON-Server-avec-JWT-et-CRUD.pptx'>JSON Server and JWT Presentation</a>
 <br/><br/>
 <img src='https://github.com/user-attachments/assets/1400405e-cff5-4884-a74e-01e4139af335' width='30%' height='35%'/><br/>
 <img src='https://github.com/user-attachments/assets/67484397-01cf-4541-9b7b-c724b3f2f850' width='45%' height='45%'/><br/>
