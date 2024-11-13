@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "alcatel",
+      "brand": "phonei",
+      "category": "Smartphones",
+      "price": "320.00",
+      "description": "feef",
+      "id": 4
+    },
+    {
+      "name": "HP pavillon",
+      "brand": "PC",
+      "category": "Computers",
+      "price": "700.00",
+      "description": "a new pc in 2024",
+      "id": 5
+    }
+  ]
+}

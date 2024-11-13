@@ -1,0 +1,14 @@
+/**  @author:Khaireddine Ihrissane  **/
+
+
+/** JSON-Server part commands**/
+json server github
+npm i -g json-server@0.17.4
+npx json-server --version
+npx json-server --watch db.json --port 3004
+
+/** FrontEnd part commands **/
+npm install axios react-bootstrap bootstrap
+
+/** Backend part commands  **/
+npm install express bcryptjs jsonwebtoken body-parser cors
