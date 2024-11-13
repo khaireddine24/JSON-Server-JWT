@@ -18,9 +18,9 @@ This project is a full-stack application that allows administrators to manage pr
 +Run the React frontend to start managing products.<br/>
 +This project demonstrates essential CRUD functionality, authentication, and a seamless admin experience for managing product data.
 <br/><br/>
-<img src='https://github.com/user-attachments/assets/1400405e-cff5-4884-a74e-01e4139af335' width='30%' height='30%'/>
-<img src='https://github.com/user-attachments/assets/67484397-01cf-4541-9b7b-c724b3f2f850' width='30%' height='30%'/>
-<img src='https://github.com/user-attachments/assets/2878c526-e1de-4f0c-b9bb-49ac02c1090e' width='30%' height='30%'/>
-<img src='https://github.com/user-attachments/assets/89b25d2a-f7df-48d4-9717-8a4b886bb1cf' width='30%' height='30%'/>
-<img src='https://github.com/user-attachments/assets/fd3bb86c-c333-46bc-a9b4-4feec87122cd' width='30%' height='30%'/>
-<img src='https://github.com/user-attachments/assets/62f5cf07-de72-42a2-a8b9-fc854474ac3d' width='30%' height='30%'/>
+<img src='https://github.com/user-attachments/assets/1400405e-cff5-4884-a74e-01e4139af335' width='30%' height='35%'/><br/>
+<img src='https://github.com/user-attachments/assets/67484397-01cf-4541-9b7b-c724b3f2f850' width='45%' height='45%'/><br/>
+<img src='https://github.com/user-attachments/assets/2878c526-e1de-4f0c-b9bb-49ac02c1090e' width='45%' height='45%'/><br/>
+<img src='https://github.com/user-attachments/assets/89b25d2a-f7df-48d4-9717-8a4b886bb1cf' width='45%' height='45%'/><br/>
+<img src='https://github.com/user-attachments/assets/fd3bb86c-c333-46bc-a9b4-4feec87122cd' width='45%' height='45%'/><br/>
+<img src='https://github.com/user-attachments/assets/62f5cf07-de72-42a2-a8b9-fc854474ac3d' width='45%' height='45%'/><br/>
