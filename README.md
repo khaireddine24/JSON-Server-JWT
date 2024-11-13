@@ -7,11 +7,11 @@ Features<br/><br/>
 -React.js Frontend: A responsive and interactive user interface built with React.js.<br/>
 -Bootstrap Styling: Clean and modern design using Bootstrap for styling and layout.<br/><br/>
 
-Tech Stack
+Tech Stack<br/>
 +Frontend: React.js, Bootstrap<br/>
 +Backend: Node.js, Express, JSON-Server, JWT for authentication<br/><br/>
 
-Setup and Installation
+Setup and Installation<br/>
 +Clone the repository.<br/>
 +Install dependencies for both frontend and backend.<br/>
 +Start JSON-Server and Node/Express backend for API and authentication.<br/>
